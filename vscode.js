@@ -21,4 +21,4 @@ Ej salida: Pérez Pepita tiene 16 años.*/
 const datos = prompt("¿Cual es tu nombre?");
 const datos2 = prompt("¿cual es tu apellido?");
 const datos3 = prompt("¿cual es tu edad?");
-document.write(datos + " " + datos2 + " tienes " + datos3 + " años, y hace 4 años eres novia de valentina, ella te manda a decir que te adoro mucho y quiere empezar una nueva etapa llenita de amor");
+document.write(datos + " " + datos2 + " tienes " + datos3 + " años.");
